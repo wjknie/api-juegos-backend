@@ -1,0 +1,66 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Usuario {
+  id_usuario   Int      @id @default(autoincrement())
+  nombre       String
+  grupo_edad   String
+  tipo_usuario String
+  correo       String   @unique
+  contrasena   String
+
+  partidas     Partida[]
+}
+
+model Juego {
+  id_juego Int     @id @default(autoincrement())
+  nombre   String
+
+  niveles  Nivel[]
+  partidas Partida[]
+}
+
+model Nivel {
+  id_nivel    Int    @id @default(autoincrement())
+  nombre      String
+  dificultad  String
+  descripcion String
+
+  id_juego Int
+  juego    Juego @relation(fields: [id_juego], references: [id_juego])
+
+  partidas Partida[]
+}
+
+model Partida {
+  id_partida Int      @id @default(autoincrement())
+  fecha      DateTime
+  estado     String
+
+  id_usuario Int
+  usuario    Usuario @relation(fields: [id_usuario], references: [id_usuario])
+
+  id_juego Int
+  juego    Juego @relation(fields: [id_juego], references: [id_juego])
+
+  id_nivel Int
+  nivel    Nivel @relation(fields: [id_nivel], references: [id_nivel])
+
+  resultado Resultado?
+}
+
+model Resultado {
+  id_resultado Int @id @default(autoincrement())
+  puntaje      Int
+  tiempo       Int
+  aciertos     Int
+
+  id_partida Int   @unique
+  partida    Partida @relation(fields: [id_partida], references: [id_partida])
+}
