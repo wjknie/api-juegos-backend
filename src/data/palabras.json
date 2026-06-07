@@ -1,0 +1,1202 @@
+[
+  {
+    "palabra": "MEMORIA",
+    "definicion": "Capacidad de almacenar y recuperar información.",
+    "categoria": "Cerebro",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ALGORITMO",
+    "definicion": "Conjunto ordenado de pasos para resolver un problema.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ASTROLABIO",
+    "definicion": "Antiguo instrumento de navegación usado para orientarse por las estrellas.",
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "FOTOSINTESIS",
+    "definicion": "Proceso químico por el cual las plantas transforman la luz solar en energía.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "EMPATIA",
+    "definicion": "Capacidad de comprender y compartir los sentimientos de los demás.",
+    "categoria": "Psicologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "CRIPTOGRAFIA",
+    "definicion": "Técnica de cifrar mensajes para que solo puedan ser leídos por el destinatario.",
+    "categoria": "Tecnologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "ENTROPIA",
+    "definicion": "Medida del desorden o la aleatoriedad en un sistema físico.",
+    "categoria": "Fisica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "METAFORA",
+    "definicion": "Figura retórica que consiste en identificar un término real con uno imaginario.",
+    "categoria": "Literatura",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "DEMOCRACIA",
+    "definicion": "Sistema político que defiende la soberanía del pueblo y su derecho a elegir gobernantes.",
+    "categoria": "Politica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "NEURONA",
+    "definicion": "Célula del sistema nervioso especializada en transmitir impulsos eléctricos.",
+    "categoria": "Cerebro",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ATMOSFERA",
+    "definicion": "Capa de gas que rodea a un cuerpo celeste.",
+    "categoria": "Astronomia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ADN",
+    "definicion": "Molécula que contiene la información genética de los seres vivos.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "BUCLE",
+    "definicion": "Secuencia de instrucciones de código que se ejecuta repetidamente.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ECLIPSE",
+    "definicion": "Ocultación transitoria de un astro por la interposición de otro.",
+    "categoria": "Astronomia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "FILOSOFIA",
+    "definicion": "Conjunto de reflexiones sobre la esencia, las propiedades, las causas y los efectos de las cosas naturales.",
+    "categoria": "Humanidades",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "FOSIL",
+    "definicion": "Restos o trazas de un organismo vivo que habitó en el pasado geológico.",
+    "categoria": "Geologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "GRAVEDAD",
+    "definicion": "Fuerza de atracción que ejerce la Tierra o cualquier otro cuerpo celeste sobre los objetos.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "HIPOTESIS",
+    "definicion": "Suposición hecha a partir de unos datos que sirve de base para iniciar una investigación.",
+    "categoria": "Ciencia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "IMAN",
+    "definicion": "Mineral o cuerpo que tiene la propiedad de atraer el hierro.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "JAQUECA",
+    "definicion": "Dolor de cabeza intenso y recurrente, que suele afectar a un solo lado.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "KILOBYTE",
+    "definicion": "Unidad de medida informática equivalente a 1024 bytes.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "LAVA",
+    "definicion": "Materia derretida o en fusión que sale de un volcán durante la erupción.",
+    "categoria": "Geologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "MAGMA",
+    "definicion": "Masa de roca fundida del interior de la Tierra u otros planetas.",
+    "categoria": "Geologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "NEBULOSA",
+    "definicion": "Nube gigante de polvo y gas en el espacio.",
+    "categoria": "Astronomia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "OXIGENO",
+    "definicion": "Elemento químico gaseoso, esencial para la respiración de la mayoría de los seres vivos.",
+    "categoria": "Quimica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "PIXEL",
+    "definicion": "Superficie menor homogénea en que se divide una imagen digital.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "QUARK",
+    "definicion": "Partícula elemental constituyente de los protones y neutrones.",
+    "categoria": "Fisica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "RADAR",
+    "definicion": "Sistema que utiliza ondas electromagnéticas para detectar la posición y velocidad de objetos.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "SISMOGRAFO",
+    "definicion": "Instrumento para registrar la intensidad, duración y origen de los temblores de tierra.",
+    "categoria": "Geologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "TEOREMA",
+    "definicion": "Proposición matemática demostrable a partir de axiomas o de otros teoremas ya demostrados.",
+    "categoria": "Matematicas",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "URANIO",
+    "definicion": "Elemento químico metálico, de color plateado, radiactivo.",
+    "categoria": "Quimica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "VACUNA",
+    "definicion": "Sustancia que se introduce en el organismo para prevenir enfermedades generando anticuerpos.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "WATT",
+    "definicion": "Unidad de potencia del Sistema Internacional equivalente a un julio por segundo.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "XILOFONO",
+    "definicion": "Instrumento musical de percusión formado por láminas de madera o metal.",
+    "categoria": "Musica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "YACIMIENTO",
+    "definicion": "Lugar donde se hallan naturalmente rocas, minerales, fósiles o restos arqueológicos.",
+    "categoria": "Geologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ZODIACO",
+    "definicion": "Zona del cielo dividida tradicionalmente en doce constelaciones.",
+    "categoria": "Astronomia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ARQUITECTURA",
+    "definicion": "Arte y técnica de diseñar, proyectar y construir edificios.",
+    "categoria": "Arte",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "BACTERIA",
+    "definicion": "Organismo microscópico unicelular, carente de núcleo, que se multiplica por división celular.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "CLIMA",
+    "definicion": "Conjunto de condiciones atmosféricas propias de una zona geográfica.",
+    "categoria": "Geografia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "DIABETES",
+    "definicion": "Enfermedad crónica caracterizada por altos niveles de glucosa en sangre.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ENZIMA",
+    "definicion": "Proteína soluble producida por las células que actúa como catalizador de reacciones bioquímicas.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "FRACCION",
+    "definicion": "Expresión de una cantidad dividida entre otra cantidad.",
+    "categoria": "Matematicas",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "GLACIAR",
+    "definicion": "Gran masa de hielo acumulada en zonas altas que se desliza muy lentamente.",
+    "categoria": "Geografia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "HEMOGLOBINA",
+    "definicion": "Proteína contenida en los glóbulos rojos que transporta el oxígeno a los tejidos.",
+    "categoria": "Anatomia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "INERCIA",
+    "definicion": "Propiedad de los cuerpos de mantener su estado de reposo o movimiento a menos que actúe una fuerza.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "JURASICO",
+    "definicion": "Período de la era mesozoica caracterizado por el apogeo de los dinosaurios.",
+    "categoria": "Historia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "LENGUAJE",
+    "definicion": "Facultad del ser humano de expresarse y comunicarse con los demás a través del sonido articulado.",
+    "categoria": "Humanidades",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "METEORITO",
+    "definicion": "Fragmento de un cuerpo celeste que cae sobre la Tierra o sobre un astro.",
+    "categoria": "Astronomia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "NUTRICION",
+    "definicion": "Proceso biológico por el cual los organismos asimilan los alimentos para su funcionamiento.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ORBITA",
+    "definicion": "Curva curva descrita por un cuerpo celeste alrededor de otro.",
+    "categoria": "Astronomia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "PALEONTOLOGIA",
+    "definicion": "Ciencia que estudia los seres vivos que habitaron la Tierra en épocas geológicas pasadas a través de fósiles.",
+    "categoria": "Ciencia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "QUERATINA",
+    "definicion": "Proteína con estructura fibrosa que constituye el componente principal de las capas más externas de la epidermis, pelos y uñas.",
+    "categoria": "Anatomia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "REFRACCION",
+    "definicion": "Cambio de dirección que experimenta una onda de luz o sonido al pasar de un medio a otro.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "SINTAXIS",
+    "definicion": "Parte de la gramática que estudia la forma en que se combinan y se relacionan las palabras para formar oraciones.",
+    "categoria": "Literatura",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "TRIGONOMETRIA",
+    "definicion": "Parte de las matemáticas que estudia las relaciones entre los lados y los ángulos de los triángulos.",
+    "categoria": "Matematicas",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "URBANISMO",
+    "definicion": "Estudio de la planificación, desarrollo y organización de las ciudades.",
+    "categoria": "Arte",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "VELOCIDAD",
+    "definicion": "Relación entre el espacio recorrido por un objeto y el tiempo empleado en recorrerlo.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "WIFI",
+    "definicion": "Tecnología de conexión inalámbrica que permite conectar dispositivos electrónicos a internet.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "XENOFOBIA",
+    "definicion": "Rechazo, odio o hostilidad hacia los extranjeros.",
+    "categoria": "Psicologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "YUXTAPOSICION",
+    "definicion": "Acción de poner una cosa junto a otra sin uniones ni conectores explícitos.",
+    "categoria": "Literatura",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "ZOOLOGIA",
+    "definicion": "Ciencia que estudia la vida, biología, comportamiento y evolución de los animales.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ACUSTICA",
+    "definicion": "Parte de la física que estudia la producción, transmisión, recepción y propiedades del sonido.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "BIOSFERA",
+    "definicion": "Capa de la Tierra donde se desarrolla la vida, que abarca agua, tierra y aire.",
+    "categoria": "Geografia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "CARTOGRAFIA",
+    "definicion": "Ciencia o arte de trazar, diseñar y analizar mapas geográficos.",
+    "categoria": "Geografia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "DILATACION",
+    "definicion": "Aumento de volumen que experimenta un cuerpo por efecto del calor.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ECOSISTEMA",
+    "definicion": "Comunidad de seres vivos cuyos procesos vitales se relacionan entre sí y con su entorno físico.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "FONETICA",
+    "definicion": "Estudio de los sonidos del habla humana, su producción y percepción física.",
+    "categoria": "Humanidades",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "GEOMETRIA",
+    "definicion": "Parte de las matemáticas que estudia la extensión, la forma de las figuras y las relaciones entre puntos, líneas y ángulos.",
+    "categoria": "Matematicas",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "HARDWARE",
+    "definicion": "Conjunto de los componentes físicos y tangibles que constituyen un sistema informático.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "INMUNIDAD",
+    "definicion": "Capacidad del organismo para resistir y defenderse de una enfermedad o agresión infecciosa.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "KILOGRAMO",
+    "definicion": "Unidad básica de masa del Sistema Internacional equivalente a mil gramos.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "LITOSFERA",
+    "definicion": "Capa externa y rígida de la Tierra, que comprende la corteza y parte del manto superior.",
+    "categoria": "Geologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "MITOLOGIA",
+    "definicion": "Conjunto de mitos, relatos históricos ficticios o leyendas de un pueblo o cultura.",
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "NUCLEO",
+    "definicion": "Parte central, principal o más densa de un objeto, célula o sistema.",
+    "categoria": "Ciencia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ONIRICO",
+    "definicion": "Perteneciente o relativo al mundo de los sueños.",
+    "categoria": "Psicologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "PRISMA",
+    "definicion": "Cuerpo geométrico de cristal que descompone la luz blanca en los colores del arcoíris.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "QUIMICA",
+    "definicion": "Ciencia que estudia la composición, estructura y propiedades de la materia.",
+    "categoria": "Quimica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ROBOTICA",
+    "definicion": "Técnica que aplica la informática y la ingeniería al diseño y construcción de robots.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "SOCIOLOGIA",
+    "definicion": "Estudio científico de las sociedades humanas, sus interacciones y fenómenos colectivos.",
+    "categoria": "Humanidades",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "TERMODINAMICA",
+    "definicion": "Parte de la física que estudia las relaciones entre el calor y otras formas de energía.",
+    "categoria": "Fisica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "UTOPA",
+    "definicion": "Plan, proyecto o sistema ideal, imaginario y de imposible realización.",
+    "categoria": "Filosofia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "VIRUS",
+    "definicion": "Agente infeccioso microscópico acelular que solo puede multiplicarse dentro de las células de otros organismos.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "XILOGRAFIA",
+    "definicion": "Técnica de impresión con plancha de madera grabada a mano.",
+    "categoria": "Arte",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "YUXTAPUESTO",
+    "definicion": "Colocado o situado de manera inmediata al lado de otra cosa.",
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ZINC",
+    "definicion": "Elemento químico metálico, de color blanco azulado, usado en aleaciones metálicas.",
+    "categoria": "Quimica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ANATOMIA",
+    "definicion": "Ciencia que estudia la estructura, forma y relaciones de las diferentes partes del cuerpo.",
+    "categoria": "Anatomia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "BITCOIN",
+    "definicion": "Moneda digital descentralizada basada en tecnología de cadena de bloques.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "CIBERNETICA",
+    "definicion": "Ciencia que estudia los sistemas de comunicación y de regulación automática en máquinas y seres vivos.",
+    "categoria": "Tecnologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "DENSIDAD",
+    "definicion": "Magnitud que expresa la cantidad de masa contenida en un determinado volumen de una sustancia.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ECOLOGIA",
+    "definicion": "Estudio de las relaciones de los seres vivos entre sí y con su entorno.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "FALACIA",
+    "definicion": "Argumento o razonamiento lógicamente inválido, pero con apariencia de ser verdadero.",
+    "categoria": "Filosofia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "GENOMA",
+    "definicion": "Conjunto completo de material genético o ADN de un organismo en particular.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "HIPERTEXTO",
+    "definicion": "Estructura no secuencial que permite crear enlaces entre bloques de texto o páginas web.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "INIFUGO",
+    "definicion": "Sustancia o material que protege contra el fuego o que no se quema con facilidad.",
+    "categoria": "Quimica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "KINETICO",
+    "definicion": "Perteneciente o relativo al movimiento de los cuerpos.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "LOGARITMO",
+    "definicion": "Exponente al que hay que elevar una cantidad fija para obtener un número determinado.",
+    "categoria": "Matematicas",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "METABOLISMO",
+    "definicion": "Conjunto de reacciones químicas que realizan las células de los seres vivos para obtener energía.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "NANO" ,
+    "definicion": "Prefijo que indica una milmillonaria parte de una unidad.",
+    "categoria": "Ciencia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "OSMOSIS",
+    "definicion": "Paso de un disolvente a través de una membrana semipermeable desde una solución diluida a otra más concentrada.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "PROTOCALULO",
+    "definicion": "Conjunto de reglas formalizadas que rigen el intercambio de información en una red informática.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "QUASAR",
+    "definicion": "Objeto celeste extremadamente lejano y brillante que emite enormes cantidades de energía.",
+    "categoria": "Astronomia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "RESILIENCIA",
+    "definicion": "Capacidad de adaptación de un ser vivo frente a un agente perturbador o una situación adversa.",
+    "categoria": "Psicologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "SEMANTICA",
+    "definicion": "Estudio del significado de los signos lingüísticos y de sus combinaciones.",
+    "categoria": "Literatura",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "TAQUICARDIA",
+    "definicion": "Frecuencia cardíaca excesivamente rápida, por encima de los niveles normales en reposo.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "UMBRAL",
+    "definicion": "Valor mínimo a partir del cual empieza a ser perceptible un estímulo físico o sensorial.",
+    "categoria": "Ciencia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "VECTOR",
+    "definicion": "Segmento de recta orientado que sirve para representar magnitudes con dirección y sentido.",
+    "categoria": "Matematicas",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "WEB",
+    "definicion": "Conjunto de información digital en forma de páginas accesibles a través de internet.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "XILEMA",
+    "definicion": "Tejido vegetal conductor que transporta agua y sales minerales desde la raíz hasta las hojas.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "YUXTAESTRUCTURA",
+    "definicion": "Disposición o colocación cercana de elementos estructurales distintos dentro de un diseño.",
+    "categoria": "Arquitectura",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "ZIGOTO",
+    "definicion": "Célula resultante de la unión de dos gametos masculino y femenino antes de empezar a dividirse.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ALQUIMIA",
+    "definicion": "Doctrina antigua con rasgos de ciencia y misticismo que buscaba la transmutación de los metales.",
+    "categoria": "Historia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "BIOMETRIA",
+    "definicion": "Medición y análisis estadístico de las características físicas y biológicas únicas de un individuo.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "CITOPLASMA",
+    "definicion": "Región de la célula situada entre la membrana plasmática y el núcleo, donde están los orgánulos.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "DIALECTICA",
+    "definicion": "Método de razonamiento que busca la verdad a través del contraste de tesis opuestas.",
+    "categoria": "Filosofia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "ESTRATOSFERA",
+    "definicion": "Capa de la atmósfera terrestre que se extiende por encima de la troposfera y contiene la capa de ozono.",
+    "categoria": "Geografia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "FUSION",
+    "definicion": "Reacción nuclear en la que dos núcleos ligeros se unen para formar otro más pesado.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "GLUCEMIA",
+    "definicion": "Medida de la concentración de glucosa libre presente en el plasma sanguíneo.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "HOLOGRAFA",
+    "definicion": "Técnica fotográfica que utiliza luz láser para crear imágenes tridimensionales.",
+    "categoria": "Tecnologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "INDUCTANCIA",
+    "definicion": "Propiedad de un circuito eléctrico para oponerse al cambio de corriente eléctrica.",
+    "categoria": "Fisica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "JUXTAPOSICION",
+    "definicion": "Acción y efecto de poner dos elementos de forma inmediata uno al lado del otro.",
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "KILOWATT",
+    "definicion": "Unidad de potencia eléctrica equivalente a mil vatios.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "LIPIDO",
+    "definicion": "Compuesto orgánico molecular insoluble en agua que almacena energía y forma membranas biológicas.",
+    "categoria": "Quimica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "MECANICA",
+    "definicion": "Rama de la física que estudia el movimiento y el equilibrio de las fuerzas aplicadas a los cuerpos.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "NANOESTRUCTURA",
+    "definicion": "Estructura material que posee dimensiones a una escala de nanómetros.",
+    "categoria": "Ciencia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "OSTEOPOROSIS",
+    "definicion": "Enfermedad ósea caracterizada por una disminución de la densidad de los huesos, volviéndolos frágiles.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "PARADOJA",
+    "definicion": "Dicho o hecho que parece contrario a la lógica o desafía el sentido común.",
+    "categoria": "Filosofia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "QUIMIOTERAPIA",
+    "definicion": "Tratamiento médico basado en el uso de fármacos para destruir células cancerosas.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "RADICAL",
+    "definicion": "Átomo o grupo de átomos que posee un electrón desaparecido, siendo altamente reactivo.",
+    "categoria": "Quimica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "SINCRETISMO",
+    "definicion": "Tendencia a combinar y reconciliar doctrinas, creencias o culturas diferentes u opuestas.",
+    "categoria": "Humanidades",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "TOPOGRAFIA",
+    "definicion": "Técnica de describir y representar detalladamente en un plano el relieve de un terreno.",
+    "categoria": "Geografia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "URTICARIA",
+    "definicion": "Reacción alérgica en la piel caracterizada por la aparición de ronchas rojas con picazón intensa.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "VULCANISMO",
+    "definicion": "Conjunto de fenómenos relacionados con la actividad de los volcanes y la salida de magma.",
+    "categoria": "Geologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "XILOFAGO",
+    "definicion": "Organismo animal que se alimenta principalmente de madera.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "YODO",
+    "definicion": "Elemento químico no metálico, utilizado habitualmente como desinfectante y antiséptico.",
+    "categoria": "Quimica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ZOOPLANCTON",
+    "definicion": "Conjunto de pequeños organismos animales flotantes que forman parte del planctón acuático.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "AMORTIZACION",
+    "definicion": "Proceso financiero mediante el cual se extingue gradualmente una deuda a través de pagos periódicos.",
+    "categoria": "Finanzas",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "BIODIVERSIDAD",
+    "definicion": "Variedad de especies animales y vegetales en su medio ambiente.",
+    "categoria": "Biologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "CROMOSOMA",
+    "definicion": "Estructura organizada de ADN y proteínas que se encuentra en el núcleo de las células.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "DIAGNOSTICO",
+    "definicion": "Determinación de la naturaleza de una enfermedad mediante la observación de sus síntomas.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ERGONOMIA",
+    "definicion": "Estudio de la adaptación de las máquinas, muebles y utensilios a la anatomía del usuario.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "FISIOLOGIA",
+    "definicion": "Ciencia que estudia las funciones orgánicas y los procesos vitales de los seres vivos.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "GRAFITO",
+    "definicion": "Forma cristalina del carbono, de color negro, conductor eléctrico e ingrediente de lápices.",
+    "categoria": "Quimica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "HISTOLOGIA",
+    "definicion": "Parte de la biología que estudia la estructura, composición y funciones de los tejidos orgánicos.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "INFLACION",
+    "definicion": "Proceso económico caracterizado por un aumento generalizado y sostenido de los precios.",
+    "categoria": "Finanzas",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "JURISPRUDENCIA",
+    "definicion": "Conjunto de sentencias y decisiones dictadas por los tribunales que sientan un precedente legal.",
+    "categoria": "Leyes",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "LOGISTICA",
+    "definicion": "Conjunto de medios y métodos necesarios para llevar a cabo la organización de una empresa o servicio.",
+    "categoria": "Negocios",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "MUTACION",
+    "definicion": "Cambio o alteración estable en la secuencia de nucleótidos del ADN de un ser vivo.",
+    "categoria": "Biologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "NEUROLOGIA",
+    "definicion": "Especialidad médica que estudia el sistema nervioso y sus trastornos.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "OPTICA",
+    "definicion": "Rama de la física que estudia las leyes y los fenómenos de la luz.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "POLIMERO",
+    "definicion": "Macromolécula compuesta por la unión de varias unidades químicas más pequeñas llamadas monómeros.",
+    "categoria": "Quimica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "QUORUM",
+    "definicion": "Número mínimo de miembros presentes requeridos en una asamblea para que las votaciones sean válidas.",
+    "categoria": "Leyes",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "RADIACION",
+    "definicion": "Emisión, propagación y transferencia de energía en forma de ondas electromagnéticas o partículas.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "SOCIOPATA",
+    "definicion": "Persona que padece un trastorno de la personalidad caracterizado por una actitud impulsiva y un desprecio por las normas sociales.",
+    "categoria": "Psicologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "TAXONOMIA",
+    "definicion": "Ciencia que trata de los principios, métodos y fines de la clasificación, especialmente en la biología.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "UNANIMIDAD",
+    "definicion": "Acuerdo o conformidad en el parecer, dictamen u opinión de todas las personas que componen una colectividad.",
+    "categoria": "General",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "VOLTAJE",
+    "definicion": "Magnitud física que impulsa a los electrones a lo largo de un conductor en un circuito eléctrico cerrado.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "WEBINAR",
+    "definicion": "Conferencia, taller o seminario que se transmite a través de internet con participación del público.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "XENON",
+    "definicion": "Elemento químico gaseoso, un gas noble incoloro y muy pesado, usado en lámparas de alta intensidad.",
+    "categoria": "Quimica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "YUXTAPONER",
+    "definicion": "Poner una cosa junto a otra de manera inmediata y sin elementos de enlace intermediarios.",
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ZOOTECNIA",
+    "definicion": "Arte y ciencia de la crianza, multiplicación y mejora de los animales domésticos para obtener rendimiento.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "ALERGIA",
+    "definicion": "Reacción inmunitaria de hipersensibilidad del organismo ante una sustancia que por lo común es inofensiva.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "BIOCENOSIS",
+    "definicion": "Conjunto de organismos de todas las especies que coexisten en un espacio definido llamado biotopo.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "CINETICA",
+    "definicion": "Parte de la física que estudia el movimiento de los cuerpos atendiendo a las causas que lo producen.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "DIALECTO",
+    "definicion": "Variedad de un idioma que se habla en un determinado territorio o región geográfica.",
+    "categoria": "Literatura",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "ESTTICA",
+    "definicion": "Parte de la física que estudia las condiciones de equilibrio de los cuerpos en reposo.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "FOTON",
+    "definicion": "Partícula elemental que compone la luz y la radiación electromagnética en general.",
+    "categoria": "Fisica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "GLUCAGON",
+    "definicion": "Hormona producida por el páncreas que eleva el nivel de glucosa en la sangre de manera opuesta a la insulina.",
+    "categoria": "Anatomia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "HISTORIOGRAFIA",
+    "definicion": "Conjunto de técnicas, teorías y métodos utilizados para el estudio y la escritura de la historia.",
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "INMUNOGLOBULINA",
+    "definicion": "Proteína presente en el suero sanguíneo que actúa como anticuerpo defendiendo al cuerpo de infecciones.",
+    "categoria": "Medicina",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "KILOMETRAJE",
+    "definicion": "Distancia total recorrida u medida calculada expresamente en kilómetros.",
+    "categoria": "General",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "LIPOSUCCION",
+    "definicion": "Operación de cirugía estética que consiste en la aspiración del exceso de grasa acumulada bajo la piel.",
+    "categoria": "Medicina",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "MECANOGRAFIA",
+    "definicion": "Arte y técnica de escribir a máquina de forma rápida y empleando todos los dedos de las manos.",
+    "categoria": "General",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "NANOTECNOLOGIA",
+    "definicion": "Manipulación de la materia a escala atómica y molecular para la creación de nuevos materiales.",
+    "categoria": "Tecnologia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "OTORRINOLARINGOLOGIA",
+    "definicion": "Parte de la medicina que estudia la anatomía, funciones y enfermedades del oído, la nariz y la garganta.",
+    "categoria": "Medicina",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "PATOLOGIA",
+    "definicion": "Rama de la medicina enfocada en el estudio de los cambios estructurales y bioquímicos que causan las enfermedades.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "QUIRURGICO",
+    "definicion": "Perteneciente o relativo a la cirugía u operaciones médicas invasivas en pacientes.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "RADIONUCLIDO",
+    "definicion": "Átomo inestable que posee un exceso de energía nuclear y emite radiación de manera espontánea.",
+    "categoria": "Fisica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "SINDROME",
+    "definicion": "Conjunto de síntomas o signos que caracterizan una enfermedad o estado clínico determinado.",
+    "categoria": "Medicina",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "TOPONIMIA",
+    "definicion": "Estudio del origen, significado y evolución histórica de los nombres propios de los lugares.",
+    "categoria": "Geografia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "USABILIDAD",
+    "definicion": "Facilidad con la que las personas pueden utilizar una herramienta o diseño digital con un fin concreto.",
+    "categoria": "Tecnologia",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "VULNERABILIDAD",
+    "definicion": "Cualidad de ser susceptible a recibir daños, ataques, fallos informáticos o pérdidas físicas.",
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "XILENO",
+    "definicion": "Hidrocarburo aromático líquido, incoloro e inflamable obtenido del alquitrán de hulla, usado como disolvente.",
+    "categoria": "Quimica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "YODURO",
+    "definicion": "Compuesto químico binario resultante de la combinación del yodo con un metal o un elemento positivo.",
+    "categoria": "Quimica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "ZOONOSIS",
+    "definicion": "Enfermedad infecciosa que puede transmitirse de forma natural desde los animales a los seres humanos.",
+    "categoria": "Medicina",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "AMORTIGUADOR",
+    "definicion": "Dispositivo mecánico diseñado para absorber y mitigar los impactos, oscilaciones o golpes bruscos.",
+    "categoria": "Fisica",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "BIOPLASTICO",
+    "definicion": "Tipo de material plástico derivado de productos vegetales en lugar del petróleo, siendo biodegradable.",
+    "categoria": "Ciencia",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "CRONOMETRO",
+    "definicion": "Reloj de gran precisión diseñado para medir fracciones de tiempo extremadamente cortas.",
+    "categoria": "General",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "DIATERMIA",
+    "definicion": "Empleo de corrientes eléctricas de alta frecuencia para elevar la temperatura en zonas internas del cuerpo.",
+    "categoria": "Medicina",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "ERGONOMICO",
+    "definicion": "Objeto adaptado para que el cuerpo humano mantenga una postura correcta y cómoda al usarlo.",
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "FISION",
+    "definicion": "Reacción nuclear en la que un núcleo pesado se divide en dos o más núcleos más pequeños emitiendo energía.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "GRAVIMETRIA",
+    "definicion": "Método analítico cuantitativo que consiste en la medición del peso o masa de una sustancia.",
+    "categoria": "Quimica",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "HISTOQUIMICA",
+    "definicion": "Estudio de la composición química de las células y tejidos mediante técnicas de coloración microscópica.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "INFRAESTRUCTURA",
+    "definicion": "Conjunto de elementos, servicios o instalaciones necesarios para el funcionamiento de una organización o país.",
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "JUSTICIA",
+    "definicion": "Principio moral que inclina a obrar y juzgar respetando la verdad y dando a cada uno lo que le corresponde.",
+    "categoria": "Leyes",
+    "dificultad": "Facil"
+  },
+  {
+    "palabra": "LOGOCENTRISMO",
+    "definicion": "Tendencia en la filosofía occidental a priorizar la palabra hablada y el logos frente a la escritura.",
+    "categoria": "Filosofia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "MUTAGENICO",
+    "definicion": "Agente físico o químico que altera o incrementa la frecuencia de mutaciones en el ADN de un organismo.",
+    "categoria": "Biologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "NEUROTRANSMISOR",
+    "definicion": "Sustancia química encargada de transmitir las señales eléctricas de una neurona a otra.",
+    "categoria": "Cerebro",
+    "dificultad": "Media"
+  },
+  {
+    "palabra": "OPTOELECTRONICA",
+    "definicion": "Nexo entre los sistemas ópticos y los sistemas electrónicos para el procesamiento de luz.",
+    "categoria": "Tecnologia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "POLIMORFISMO",
+    "definicion": "Propiedad de algunas sustancias o códigos de presentarse bajo formas o estructuras diferentes.",
+    "categoria": "Ciencia",
+    "dificultad": "Dificil"
+  },
+  {
+    "palabra": "RESONANCIA",
+    "definicion": "Fenómeno en el cual un sistema físico vibra con mayor intensidad al recibir una frecuencia similar a la suya.",
+    "categoria": "Fisica",
+    "dificultad": "Media"
+  }
+]
